@@ -1,0 +1,215 @@
+body {
+  padding-top: 20px;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;  
+}
+.jumbotron .btn {
+  
+  font-size: 21px;
+}
+
+/* Customize the nav-justified links to be fill the entire space of the .navbar */
+
+.nav-justified {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.nav-justified > li > a {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+  font-weight: bold;
+  color: #777;
+  text-align: center;
+  background-color: #e5e5e5; /* Old browsers */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e5e5e5));
+  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e5e5e5 100%);
+  background-image:      -o-linear-gradient(top, #f5f5f5 0%, #e5e5e5 100%);
+  background-image:         linear-gradient(to bottom, #f5f5f5 0%,#e5e5e5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+  background-repeat: repeat-x; /* Repeat the gradient */
+  border-bottom: 1px solid #d5d5d5;
+}
+.nav-justified > .active > a,
+.nav-justified > .active > a:hover,
+.nav-justified > .active > a:focus {
+  background-color: #ddd;
+  background-image: none;
+  -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
+          box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
+}
+.nav-justified > li:first-child > a {
+  border-radius: 5px 5px 0 0;
+}
+.nav-justified > li:last-child > a {
+  border-bottom: 0;
+  border-radius: 0 0 5px 5px;
+}
+
+@media (min-width: 768px) {
+  .nav-justified {
+    max-height: 52px;
+  }
+  .nav-justified > li > a {
+    border-right: 1px solid #d5d5d5;
+    border-left: 1px solid #fff;
+  }
+  .nav-justified > li:first-child > a {
+    border-left: 0;
+    border-radius: 5px 0 0 5px;
+  }
+  .nav-justified > li:last-child > a {
+    border-right: 0;
+    border-radius: 0 5px 5px 0;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+
+
+
+body {
+  background: rgba(90,103,108,1);
+
+}
+
+h2 {
+  color: #303030;
+}
+
+p {
+  color: #ccc;
+}
+
+p > a {
+  color: #aaa;
+  text-decoration: underline;
+}
+
+
+
+.nav-justified {
+  background: rgba(204, 204, 204, .7);
+}
+
+
+
+
+
+
+a.fa {
+  text-decoration: none;
+}
+
+ul.social
+{
+  cursor: default;
+  margin: 0;
+}
+
+ul.social li
+{
+  position: relative;
+  display: inline-block;
+  margin: 0.25em;
+  top: 0;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #444;
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+  background-image: -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+  background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+  -moz-transition: background-color .2s ease-in-out, top .2s ease-in-out;
+  -webkit-transition: background-color .2s ease-in-out, top .2s ease-in-out;
+  -o-transition: background-color .2s ease-in-out, top .2s ease-in-out;
+  -ms-transition: background-color .2s ease-in-out, top .2s ease-in-out;
+  transition: background-color .2s ease-in-out, top .2s ease-in-out;
+  box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255,255,255,0.1);
+}
+
+ul.social li:before
+{
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  /* background: url('images/bg.png'); */
+}
+
+ul.social li.twitter:hover        { background-color: #2DAAE4; }
+ul.social li.facebook:hover       { background-color: #3C5A98; }
+ul.social li.dribbble:hover       { background-color: #C4376B; }
+ul.social li.linkedin:hover       { background-color: #006599; }
+ul.social li.tumblr:hover       { background-color: #51718A; }
+ul.social li.googleplus:hover     { background-color: #DA2713; }
+ul.social li.github:hover       { background-color: #FAFAFA; }
+ul.social li.rss:hover          { background-color: #F2600B; }
+ul.social li.instagram:hover      { background-color: #E0D7C8; }
+ul.social li.foursquare:hover     { background-color: #39A3D4; }
+ul.social li.skype:hover        { background-color: #10BEF1; }
+ul.social li.soundcloud:hover     { background-color: #FE5419; }
+ul.social li.youtube:hover        { background-color: #BF2E25; }
+ul.social li.blogger:hover        { background-color: #FF6501; }
+ul.social li.flickr:hover       { background-color: #0062DB; }
+ul.social li.vimeo:hover        { background-color: #4C8AB0; }
+
+ul.social li:hover
+{
+  top: -5px;
+}
+
+ul.social li:active
+{
+  top: 0;
+}
+
+ul.social li a
+{
+  display: block;
+  position: relative;
+  width: 48px;
+  height: 48px;
+  outline: 0;
+  color: #2E2E2E !important;
+  line-height: 46px;
+  font-size: 24px;
+  text-shadow: 1px 1px 0px rgba(255,255,255,0.1);
+  left: 14px;
+}
+
+ul.social li a span
+{
+  display: block;
+  text-indent: -9999px;
+}
+
+/* .fa-linkedin-square:before{content:"\f08c"} */
+
+
+
