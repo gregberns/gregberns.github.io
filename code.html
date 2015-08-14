@@ -63,7 +63,7 @@
           A year or two after graduating, with a desire to see something new, I moved to Arizona, and found the two loves of my life.
         </p>
         <p>
-          I signed on with a small business intelligence (BI) consulting company, that had a team building powerful tools, on top of a highly respected BI platform, now called SAP Business Objects. They built a tool that took the drudgery out of  peoples life by delivering reports from the BI platform.
+          I signed on with a small business intelligence (BI) consulting company, that had a team building powerful tools, on top of a highly respected BI platform, now called SAP Business Objects. They built a tool that took the drudgery out of peoples life by delivering reports to where people needed them.
         </p>
         <p>
           Though I didn't have the slightest clue how software actually worked, I quickly learned.
@@ -96,10 +96,60 @@
         <h2 id="tech">
           Technology
         </h2>
-        <p>
-          Languages, Frameworks, Applications, APIs
-        </p>
         
+        <h3>Languages</h3>
+        
+          <ul>
+            <li>.NET - VB & C#</li>
+            <li>Web - JavaScript, HTML, CSS</li>
+            <li>Java</li>
+          </ul>
+        
+        <h3>Frameworks</h3>
+        
+        <h4>Applications</h4>
+        
+        <h3>APIs & SDKs</h3>
+          
+          <p>Primary developer, building the interface between InfoBurst and the BI Platform. 
+          Wrote both the initial BI4.0 Java interface, and later, the BI4.1 Web Service interface.</p>
+          
+          <ul>
+            <li>Business Objects 4.0 Web Wervice - REST based API</li>
+            <li>Business Objects 4.1 Java SDK</li>
+            <li>Business Objects XI3.1 Web Service and Full Client SDK's</li>
+          </ul>
+          
+          <h4>BI 4.1 Web Service Challenges</h4>
+          <p>The issue was, and continues to be, that the implementation of the BI4.1 REST API did not do everything we needed it to do.
+          That meant that we could not be fully backwards compatible, which would not be acceptable, especially for many current customers.</p>
+        
+          <p>To deal with this, the implementation had to deal with not one, but three different BI4 APIs/SDKs, 
+          and provide a single interface back to the InfoBurst Platform. 
+          This meant the code needed to work with a REST API, a SOAP SDK, and a 'Fat Client' SDK.
+          Each one needed to be tied together, so the calls from the InfoBurst platform were seamless.</p>
+        
+          <p>Once implemented, the new interface was deployed at client sites, and provided significant performance improvements,
+          and is now utilized at a majority of InfoBurst sites.</p>
+        
+          <h4>BI 4.1 Java SDK Challenges</h4>
+          <p>InfoBurst is a .NET application, and when BI4.0 was released, the only interface available was a Java SDK. 
+          Of course, there is no easy way to interface between a .NET and Java application.
+          If we could solve this problem, we could provide our customers with a solution and help us get new customers durring a time of great demand.</p>
+          
+          <p>Before solving this problem, we had to convert 5,000 lines of VB.NET code into Java code, 
+          to ensure we could achieve what was needed through the Java SDK.</p>
+          
+          <p>Once we knew the functions we needed were possible, we needed to build a 'Bridge' between the .NET and Java processes.
+          To do this, a new Java process was started, which started a SOAP API. 
+          From there, the .NET application could start a SOAP client and send messages to the Java 'server'.
+          Once the processing was complete on the .NET side, it needed to tell the Java server to shut down and kill its own process.</p>
+      
+          <p>This was quite challenging to get working, but it allowed us to get 'ahead of the curve', 
+          and release a version of InfoBurst that supported BI4.0 almost a year and a half before the new API was released.
+          This resulted in several sales to new customers, who were moving to the new BI version.</p>
+        
+      
       </section>
 
       
