@@ -90,16 +90,16 @@ body {
 
 
 body {
-  background: rgba(90,103,108,1);
+  background: #dbdfe2;
 
 }
 
 h2 {
-  color: #303030;
+  color: #2f2f2f;
 }
 
 p {
-  color: #ccc;
+  color: #2f2f2f;
 }
 
 p > a {
@@ -107,14 +107,15 @@ p > a {
   text-decoration: underline;
 }
 
-
-
 .nav-justified {
   background: rgba(204, 204, 204, .7);
 }
 
+.jumbotron {
+  background-color: #2f2f2f;
+}
 
-.parallelogram {
+.gb-logo {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -124,27 +125,21 @@ p > a {
   border: none;
   
   background-color: #ff2020;
-  -o-text-overflow: clip;
-  text-overflow: clip;
-  -webkit-transform: skewX(-20deg);
   transform: skewX(-15deg);
+  
   box-shadow: 2px 2px 1px #000000;
 
 }
 
-.parallelogram span {
+.gb-logo span {
   
   margin: .1em;
   
   font: normal 100%/normal;
   font-size: 2em;
-  font-weight: bold;
-  //font-style: italic;
-  font-family: open sans;
   color: #ffffff;
   
   font-family: 'Lato' !important;
-  //font-style: italic;
   font-weight: 900;
 
 }
