@@ -90,11 +90,11 @@ media (min-width: $screen-xs) and (max-width: $screen-xs) {
 
 media (min-width: $screen-sm) and (max-width: $screen-lg) {
   
-     .gb-logo-large {
+     .gb-logo {
        width: 25em;
      }
      
-     .gb-logo-large span {
+     .gb-logo span {
        font-size: 400%;
      }
 } 
