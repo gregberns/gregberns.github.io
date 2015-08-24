@@ -81,7 +81,7 @@ $screen-lg:                  1200px !default;*/
 
 @media (max-width: 480px) {
      .gb-logo {
-       width: 12.8em;
+       width: 14em;
      }
      
      .gb-logo span {
