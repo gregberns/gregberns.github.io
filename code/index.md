@@ -1,8 +1,7 @@
 ---
 title: code
+layout: default
 ---
-
-{% include header.html %}
 
 ##Background
 
@@ -167,5 +166,3 @@ Business Objects XIR2 - BI4.1
 ####General
 
 * Microsoft Office (Does a developer really need to include this??)
-
-{% include footer.html %}
