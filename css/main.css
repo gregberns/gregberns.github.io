@@ -11,12 +11,6 @@
 //light grey text - #DADEE1
 
 
-
-
-
-
-
-
 body {
   padding-top: 20px;
 }
@@ -39,7 +33,9 @@ body {
   font-size: 21px;
 }
 
-
+.jumbotron a {
+  text-decoration: none;
+}
 
 /* 
 Semi-Scalable logo 
