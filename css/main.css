@@ -54,6 +54,7 @@ Semi-Scalable logo
 
   border: none;
   background-color: #ff2020;
+  -webkit-transform: skewX(-15deg);
   transform: skewX(-15deg);
   box-shadow: .2em .2em .1em #000000;
 }
