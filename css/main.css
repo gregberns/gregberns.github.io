@@ -48,9 +48,17 @@ Semi-Scalable logo
 }
 
 .gb-logo div {
+  
   float: none;
   margin-left: auto;
   margin-right: auto;
+
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+
+  -o-text-overflow: clip;
+  text-overflow: clip;
 
   border: none;
   background-color: #ff2020;
