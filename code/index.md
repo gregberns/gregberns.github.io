@@ -2,6 +2,8 @@
 title: code
 ---
 
+{% include header.html %}
+
 ##Background
 
 In college, I started a summer landscaping business in my hometown. It lead me to get a business degree at Northern 
@@ -165,3 +167,5 @@ Business Objects XIR2 - BI4.1
 ####General
 
 * Microsoft Office (Does a developer really need to include this??)
+
+{% include footer.html %}
