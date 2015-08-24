@@ -1,3 +1,7 @@
+---
+title: greg
+---
+
 {% include header.html %}
 
 {% include index.html %}
