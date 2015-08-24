@@ -1,3 +1,7 @@
+---
+title: code
+---
+
 ##Background
 
 In college, I started a summer landscaping business in my hometown. It lead me to get a business degree at Northern 
