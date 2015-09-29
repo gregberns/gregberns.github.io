@@ -23,3 +23,47 @@ Build and maintain the InfoBurst Platform. Work closely with customers to solve 
 + Pushed team to improve internal processes (weekly meetings, better communication) 
 + Mentored and trained consultants, developers and support techs
 + Assisted potential customers in proof of concept testing and pre-sales activity
+
+
+####APIs & SDKs
+
+Primary developer, building the interface between InfoBurst and the SAP Business Objects Platform (BO).
+When Business Objects version 4.0 (BI4.0) was released, there was major changes made to the SDKs.
+This required us to re-write the interface between InfoBurst and BO.
+I was in charge of writting both the initial BI4.0 Java interface, and later, the BI4.1 Web Service interface.
+
+* Business Objects 4.0 Web Wervice - REST based API
+* Business Objects 4.1 Java SDK
+* Business Objects XI3.1 Web Service and Full Client SDK's
+
+#####BI 4.1 Web Service Challenges
+
+In a later version of BI4.0, they released a RESTful API, that was leaps and bounds better than any API released by BO previously. But, because parts of the API were incomplete, there were some challenges actually implementing a backwards compatible interface.
+
+The issue was, and continues to be, that the implementation of the BI4.1 REST API did not do everything we 
+needed it to do. That meant that we could not be fully backwards compatible, which would not be acceptable, 
+especially for many current customers.
+
+To deal with this, the implementation had to deal with not one, but three different BI4 APIs/SDKs, 
+and provide a single interface back to the InfoBurst Platform. 
+This meant the code needed to work with a REST API, a SOAP SDK, and a 'Fat Client' SDK.
+Each one needed to be tied together, so the calls from the InfoBurst platform were seamless.
+
+Once implemented, the new interface was deployed at client sites, and provided significant performance 
+improvements, and is now utilized at a majority of InfoBurst sites.
+
+#####BI 4.1 Java SDK Challenges
+
+When Business Objects released the 4.0 version, the previous APIs used, were either depricated, or broken. To get a solution working, the only API to use was their Java SDK.
+
+InfoBurst is a .NET application, and there are no easy ways to interface between a .NET and Java application.
+If we could solve this problem, we could provide our customers with a solution and help us get new customers 
+during a time of great demand.
+
+The first step was to convert 6,000 lines of VB.NET code into Java code, to ensure we could achieve what was needed through the Java SDK.
+
+Once we knew the functions we needed were possible, we needed to build a 'Bridge' between the .NET and Java 
+processes. To do this, a new Java process was started, which started a SOAP API 'server'. From there, the .NET application could start a SOAP client and send messages to the Java 'server'. Once the processing was complete on the .NET side, it needed to tell the Java server to shut down and kill its own process.
+
+This was quite challenging to get working, but it allowed us to get 'ahead of the curve', and release a version of InfoBurst that supported BI4.0 almost a year and a half before the new API was released.
+This resulted in several sales to new customers, who were moving to the new BI version.
