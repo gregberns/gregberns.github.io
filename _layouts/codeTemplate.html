@@ -1,0 +1,37 @@
+{% include header.html %}
+
+<div class="nav-container">
+  <div class="container">
+    <div class="nav-default">
+      <ul class="nav nav-justified">
+        <li>
+          <a href="/code">
+            <i class="fa fa-code"></i>
+            Code
+          </a>              
+        </li>
+        <li>
+          <a href="http://travelsofawanderer.blogspot.com/">
+            <i class="fa fa-glass"></i>
+            Food & Drink
+          </a>
+        </li>
+        <li>
+          <a href="/places">
+            <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+            Places
+          </a>              
+        </li>
+        <!-- <li>
+          <a href="#family">Family</a>
+        </li> -->
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+{{ content }}
+</div>
+
+{% include footer.html %}
