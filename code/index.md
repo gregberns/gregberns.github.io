@@ -1,6 +1,6 @@
 ---
 title: Code
-layout: codeTemplate
+layout: default
 ---
 
 ##Summary
@@ -19,6 +19,11 @@ My versatile skill set allows me to communicate with everyone from high level ma
 
 [Click to download PDF version of resume.](https://docs.google.com/document/d/1lcO355gFLsXSTq_V-3dW4K8c6aPhtvF3XxopUrf8f0s/export?format=pdf)
 
+##Roles
++ [Senior Software Developer - .NET Platform](/code/dev)
++ [Project Manager and Tester - Dashboard Design Tool](/code/pm)
++ [Senior Technical Support](/code/support)
+
 ##Background
 
 In college, I started a summer landscaping business in my hometown. It lead me to get a business degree at Northern 
@@ -36,6 +41,14 @@ out of peoples life by delivering reports to where people needed them.
 Though I didn't have the slightest clue how software actually worked, I quickly learned.
 
 At some points, it feels like a bit of an obsession, but I'm ok with that.
+
+
+
+###Most Valuable Skills
+
++ Creative, Practical Problem Solving
++ Developing network of contacts that help accomplish tasks and ’get things done’
++ Communicate complex concepts to novice/non-technical users
 
 
 ##Primary Projects
