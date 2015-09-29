@@ -24,11 +24,21 @@ Build and maintain the InfoBurst Platform. Work closely with customers to solve 
 + Mentored and trained consultants, developers and support techs
 + Assisted potential customers in proof of concept testing and pre-sales activity
 
-
 ##Futher Descriptions
 
 + (REST API)
 + (APIs & SDKs)
+
+###Primary Project: InfoBurst Enterprise
+
+####Enterprise Report Distribution Tool
+
+Worked for 7 years on an Enterprise Report Distribution tool, providing support, development, and training, 
+working closely with customers helping them get issues resolved, developing new features, and training customers 
+to use the product.
+
+Started as a support technician and product tester, then over time, moved into a development role, 
+by learning .NET and how to solve problems through code.
 
 ####REST API
 
