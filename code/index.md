@@ -48,42 +48,6 @@ Though I didn't have the slightest clue how software actually worked, I quickly 
 At some points, it feels like a bit of an obsession, but I'm ok with that.
 
 
-
-
-
-##Primary Projects
-
-###InfoBurst Enterprise
-
-####Enterprise Report Distribution Tool
-
-Worked for 7 years on an Enterprise Report Distribution tool, providing support, development, and training, 
-working closely with customers helping them get issues resolved, developing new features, and training customers 
-to use the product.
-
-Started as a support technician and product tester, then over time, moved into a development role, 
-by learning .NET and how to solve problems through code.
-
-More details...
-
-
-###Anubis
-
-####BI Dashboard Development Tool
-
-<!-- Add a hover over that shows definitions/explanations of what is being discussed
-      Example: "BI Dashboard Design Tool - Allows a business user or analyst to create a business 
-      dashboard by dragging components onto a canvas, adding logic between components, and wiring 
-      up data from the server.
--->
-
-Helped guide a junior developer in the building of a BI dashboard design tool. While I did help write some code,
-due to my knowledge of the domain, my primary role was to provide guidance on what to build next, testing what 
-was being built, and push for workflow/UX improvements. Over six months time, the product moved from a barebones
-design tool, to one that in many ways was more powerful than the design tool we were comparing ourselves against.
-
-More details...
-
 ##Interesting Projects
 
 ###SQL Builder
