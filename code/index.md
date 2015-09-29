@@ -1,6 +1,6 @@
 ---
 title: Code
-layout: default
+layout: codeTemplate
 ---
 
 ##Summary
