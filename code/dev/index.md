@@ -25,6 +25,17 @@ Build and maintain the InfoBurst Platform. Work closely with customers to solve 
 + Assisted potential customers in proof of concept testing and pre-sales activity
 
 
+##Futher Descriptions
+
++ (REST API)
++ (APIs & SDKs)
+
+####REST API
+
+Built a REST API on top of existing platform, to expose existing functionality and promote further use of the underlying platform functionality. Most of the functionality was hidden under a SOAP API, which means that modern web apps could not easily access the data.
+
+By exposing the platform through a simple web interface, we could quickly develop web applications leveraging the platform's power. With this flexibility, we were able to deliver features to customers quickly.
+
 ####APIs & SDKs
 
 Primary developer, building the interface between InfoBurst and the SAP Business Objects Platform (BO).
