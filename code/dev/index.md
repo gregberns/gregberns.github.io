@@ -5,7 +5,7 @@ layout: default
 
 ##Senior Software Developer - .NET Platform
 
-Build and maintain the InfoBurst Platform. Work closely with customers to solve challenging issues and gather new feature requirements. Provide support in complex customer projects, helping guide users to a 
+Build and maintain the InfoBurst Platform. Work closely with customers to solve challenging issues and gather new feature requirements. Provide support in complex customer projects, helping guide users to a successful project outcome.
 
 ###Primary Responsibilities
 
