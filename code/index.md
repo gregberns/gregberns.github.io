@@ -3,9 +3,9 @@ title: Code
 layout: default
 ---
 
-##Summary
+##About Me
 
-Software developer deeply familiar with the enterprise product development lifecycle, including: development, testing, customer support, and pre-sales. Primarily focused on writing great Object Oriented backend .NET code, and have plenty of web experience. Developed and supported an enterprise grade product used at 250+ sites worldwide.
+A software developer deeply familiar with the enterprise product development lifecycle, including: development, testing, customer support, and pre-sales. Primarily focused on writing great object oriented backend .NET code, and have plenty of web experience. Over the last 7 years, developed and supported an enterprise grade product used at 250+ sites worldwide.
 
 Worked on small team, doing any job needed, to build and support InfoBurst, a niche software platform that distributes hundreds of thousands of Business Intelligence (BI) documents a day, at sites worldwide. Servicing enterprise customers, from Fortune 500(Intel, Pfizer, BP) to small businesses and government organizations.
 
@@ -29,7 +29,7 @@ Senior member of development team. Help determine product direction, team priori
 
 Provided advanced technical customer support, help identify advanced bugs others could not understand. Worked closely with developers to find and resolve issues. [Learn More...](/code/support)
 
-###Most Valuable Skills
+##Most Valuable Skills
 + Creative, Practical Problem Solving
 + Developing network of contacts that help accomplish tasks and ’get things done’
 + Communicate complex concepts to novice/non-technical users
