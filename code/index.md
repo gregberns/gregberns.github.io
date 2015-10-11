@@ -20,8 +20,7 @@ My versatile skill set allows me to communicate with everyone from high level ma
 [Click to download PDF version of resume.](https://docs.google.com/document/d/1lcO355gFLsXSTq_V-3dW4K8c6aPhtvF3XxopUrf8f0s/export?format=pdf)
 
 ##Roles
-+ [Senior Software Developer - .NET Platform](/code/dev)
-+ [Project Manager and Tester - Dashboard Design Tool](/code/pm)
++ [Senior Software Developer](/code/dev)
 + [Senior Technical Support](/code/support)
 
 ###Most Valuable Skills
@@ -47,73 +46,20 @@ Though I didn't have the slightest clue how software actually worked, I quickly 
 
 At some points, it feels like a bit of an obsession, but I'm ok with that.
 
-
-##Interesting Projects
-
-###SQL Builder
-
-For those not in the 'know', SQL is a structured language used to retrieve and update data from a database.
-There was a desire from our users to have an easy way to create these SQL statements, without having to know the 
-language. The problem was that, not only would I have to 'write' the SQL for them, but I'd also have to read SQL,
-which is a more difficult task. I embarked on this task without understanding the rabbit hole I was about to 
-go down.
-
-###Semantic Layer
-
-After building the basics of the SQL Builder, and understanding how to read and generate SQL, 
-I embarked on an even more ambitious task: could I look at a whole database 
-and generate SQL based on its structure?
-The answer turned out to be yes.
-
 ##Technology
 
 ###Languages
 
-* .NET - VB & C#
-* Web - JavaScript, HTML, CSS
-* Java
+VB.NET, C#, Java, SQL, HTML5, JavaScript, CSS3, 
 
-###Frameworks
+###Web
 
-####Web
+RESTful, jQuery, AngularJS, React 
 
-* Angular
-* React
-* Kendo
-* jQuery
+###.NET
 
-####Server Side
+Visual Studio, Windows Server, SQL Server, WCF, Xamarin, MvvmCross, RESTSharp, SyncFusion (XLSIO, PDF), Akka.NET
 
-* RESTSharp
-* SyncFusion - XLSIO, PDF
-* Akka.NET
+###Other
 
-###Applications
-
-####IDE
-
-* Visual Studio
-* Eclipse
-* VS Code
-* Sublime
-* Notepad++
-
-####Database
-
-* Sql Server (2005-Current) (Most Familiar DB Type)
-* SQLite
-* Oracle
-
-####Business Intelligence
-
-Business Objects XIR2 - BI4.1
-
-* Administration + Server Scaling
-* Webi
-* Universe Designer
-* Crystal
-* Deski
-
-####General
-
-* Microsoft Office (Does a developer really need to include this??)
+Mercurial, Git, Fiddler, TeamCity, SAP Business Objects, VMWare
