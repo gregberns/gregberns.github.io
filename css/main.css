@@ -10,6 +10,9 @@
 //dark black - #151618
 //light grey text - #DADEE1
 
+h5, .h5 {
+     font-weight: 700;
+}
 
 body {
   padding-top: 20px;
