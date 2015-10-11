@@ -1,5 +1,5 @@
 ---
-title: greg
+title: Greg Berns
 ---
 
 {% include header.html %}
