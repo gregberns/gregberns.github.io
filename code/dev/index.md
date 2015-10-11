@@ -22,15 +22,6 @@ Build and maintain the InfoBurst Platform. Work closely with customers to solve 
 + Built and managed internal automated systems and processes (CI, Installers, Build Systems)
 + Pushed team to improve internal processes (weekly meetings, better communication) 
 
-##InfoBurst Enterprise - Enterprise Report Distribution Tool
-
-Worked for 7 years on an Enterprise Report Distribution tool, providing support, development, and training, 
-working closely with customers helping them get issues resolved, developing new features, and training customers 
-to use the product.
-
-Started as a support technician and product tester, then over time, moved into a development role, 
-by learning .NET and how to solve problems through code.
-
 ###Development Projects
 
 ####REST API
@@ -56,7 +47,7 @@ go down.
 
 After building the basics of the SQL Builder, and understanding how to read and generate SQL, I embarked on an even more ambitious task: could I look at a whole database and generate SQL based on its structure? The answer turned out to be yes.
 
-###Team Lead - Dashboard Design Tool
+##Team Lead - Dashboard Design Tool
 
 Worked on a team to develop a new ‘drag-drop’ dashboard design tool, for business users to create powerful HTML dashboards, in the browser. When the project moved from a simple proof-of-concept to an activly developed project, oversight was needed to create a powerful tool that accomplished many of the tasks customers could do in other tools.
 
