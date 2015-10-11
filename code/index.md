@@ -23,11 +23,15 @@ My versatile skill set allows me to communicate with everyone from high level ma
 
 ###Senior Software Developer
 
-Senior member of development team. Help determine product direction, team priorities, and responsible for development of core product. [Learn More...](/code/dev)
+Senior member of development team. Help determine product direction, team priorities, and responsible for development of core product. 
+
+[Learn More...](/code/dev)
 
 ###Senior Technical Support 
 
-Provided advanced technical customer support, help identify advanced bugs others could not understand. Worked closely with developers to find and resolve issues. [Learn More...](/code/support)
+Provided advanced technical customer support, help identify advanced bugs others could not understand. Worked closely with developers to find and resolve issues. 
+
+[Learn More...](/code/support)
 
 ##Most Valuable Skills
 + Creative, Practical Problem Solving
