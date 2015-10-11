@@ -5,7 +5,7 @@ layout: default
 
 ##Summary
 
-Self-taught software developer, deeply familiar with the enterprise product development lifecycle: R&D, development, testing, customer support, and pre-sales. Primarily a backend .NET developer, with plenty of web experience. Helped build, test, and support an enterprise grade product used at 250+ sites worldwide.
+Software developer deeply familiar with the enterprise product development lifecycle, including: development, testing, customer support, and pre-sales. Primarily focused on writing great Object Oriented backend .NET code, and have plenty of web experience. Developed and supported an enterprise grade product used at 250+ sites worldwide.
 
 Worked on small team, doing any job needed, to build and support InfoBurst, a niche software platform that distributes hundreds of thousands of Business Intelligence (BI) documents a day, at sites worldwide. Servicing enterprise customers, from Fortune 500(Intel, Pfizer, BP) to small businesses and government organizations.
 
@@ -20,8 +20,14 @@ My versatile skill set allows me to communicate with everyone from high level ma
 [Click to download PDF version of resume.](https://docs.google.com/document/d/1lcO355gFLsXSTq_V-3dW4K8c6aPhtvF3XxopUrf8f0s/export?format=pdf)
 
 ##Roles
-+ [Senior Software Developer](/code/dev)
-+ [Senior Technical Support](/code/support)
+
+###Senior Software Developer
+
+Senior member of development team. Help determine product direction, team priorities, and responsible for development of core product. [Learn More...](/code/dev)
+
+###Senior Technical Support 
+
+Provided advanced technical customer support, help identify advanced bugs others could not understand. Worked closely with developers to find and resolve issues. [Learn More...](/code/support)
 
 ###Most Valuable Skills
 + Creative, Practical Problem Solving
@@ -35,8 +41,7 @@ Illinois University. For many students, they think getting a business degree is 
 for a great 'career'. I liked the challenge of what I was doing during the summer, from tracking expenses and 
 payments, to working with clients, and finding new sources of revenue. 
 
-A year or two after graduating, with a desire to see something new, I moved to Arizona, and found the two loves 
-of my life.
+A year or two after graduating, with a desire to see something new, I traveled the world and ended up in Arizona, where I found the two loves of my life.
 
 I signed on with a small business intelligence (BI) consulting company, that had a team building powerful tools, 
 on top of a highly respected BI platform, now called SAP Business Objects. They built a tool that took the drudgery 
