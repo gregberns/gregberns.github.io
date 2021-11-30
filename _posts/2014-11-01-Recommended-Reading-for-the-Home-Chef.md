@@ -79,7 +79,7 @@ If you can't name a chef that hasn't come up through, or been on the Food Networ
 
 If you are familiar with him, are pretty decent in the kitchen, and wanna seriously up your cooking game, get this book. (Oh and make sure you leave most of a day or two to make one of the recipes. You'll need it.)
 
-If you're just getting started or can't dedicate several (5) hours to cooking, then this won't be the book for you. Instead, look at [The Science of Good Cooking](http://www.amazon.com/gp/product/1933615982/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933615982&linkCode=as2&tag=travofawand-20&linkId=4HDQCS2YFV3ANKXD).
+If you're just getting started or can't dedicate several (5) hours to cooking, then this won't be the book for you. Instead, look at [The Science of Good Cooking](https://www.amazon.com/gp/product/1933615982/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933615982&linkCode=as2&tag=travofawand-20&linkId=4HDQCS2YFV3ANKXD).
 
 If you're comfortable in the kitchen, but not familiar with any non-TV star chefs, start by learning more about Keller. He may just be the best chef in America, one of the best in the world, and has several Michelin Star restaurants to prove it. And he's a seriously nice guy with [some mad cooking chops](https://www.youtube.com/watch?v=EWLt6G85zC4).
 

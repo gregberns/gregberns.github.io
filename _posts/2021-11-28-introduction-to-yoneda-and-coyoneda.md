@@ -193,9 +193,9 @@ There are plenty more uses and more to learn - but hopefully thats a quick intro
 * Joke Tweet: [https://twitter.com/runarorama/status/1324783319670792192?s=21](https://twitter.com/runarorama/status/1324783319670792192?s=21)
 * [https://blog.ocharles.org.uk/posts/2017-08-23-extensible-effects-and-transformers.html](https://blog.ocharles.org.uk/posts/2017-08-23-extensible-effects-and-transformers.html)
 * [https://slides.yowconference.com/yowlambdajam2017/Humphries-ContinuationsAllTheWayDown.pdf?feature=oembed](https://slides.yowconference.com/yowlambdajam2017/Humphries-ContinuationsAllTheWayDown.pdf?feature=oembed)
-* [http://comonad.com/reader/2011/free-monads-for-less-2/](http://comonad.com/reader/2011/free-monads-for-less-2/)
+* [https://comonad.com/reader/2011/free-monads-for-less-2/](https://comonad.com/reader/2011/free-monads-for-less-2/)
 * Small construction in JS: [https://gist.github.com/DrBoolean/c0204ed57cf63a70dfe0](https://gist.github.com/DrBoolean/c0204ed57cf63a70dfe0)
-* Free [http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
-* Yoneda [http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/](http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/)
+* Free [https://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/](https://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
+* Yoneda [https://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/](https://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/)
 * Yoneda in Rose tree [https://gist.github.com/i-am-tom/889e02021844acf8ec764236913b7956](https://gist.github.com/i-am-tom/889e02021844acf8ec764236913b7956)
 

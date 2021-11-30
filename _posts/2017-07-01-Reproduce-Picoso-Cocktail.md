@@ -8,7 +8,7 @@ keywords: [drink]
 
 Note: I can’t be positive, but I believe this story is where my cocktail investigations began. Very glad it happened…
 
-Last year, we met up with our friends, Christie and Vail, at [Gallo Blanco Cafe](http://galloblancocafe.com/) in Phoenix, before they left us and moved far, far away. At that time, I’d almost always just get a decent beer, but that day happy hour drinks were cheap and looked delicious. I asked the waiter for a recommendation and his suggestion was to get the Picoso, a drink that "tastes like a spicy jolly rancher". I responded with an appropriate: "Hell Yes".
+Last year, we met up with our friends, Christie and Vail, at [Gallo Blanco Cafe](https://galloblancocafe.com/) in Phoenix, before they left us and moved far, far away. At that time, I’d almost always just get a decent beer, but that day happy hour drinks were cheap and looked delicious. I asked the waiter for a recommendation and his suggestion was to get the Picoso, a drink that "tastes like a spicy jolly rancher". I responded with an appropriate: "Hell Yes".
 
 The menu’s description: Pineapple infused Corazon Repo, lime, and hint of Jalapeno — Shaken
 

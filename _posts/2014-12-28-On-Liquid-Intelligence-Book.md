@@ -8,14 +8,14 @@ keywords: [drink, books]
 
 This year, work gave us both the Friday after Christmas and after New Years off, so I needed a project to deal with my two 4-day weekends.
 
-Anyways, I started reading more posts on Cooking Issues and as often happens, I became enamored with Dave Arnold, and decided to get his book, ["Liquid Intelligence"](http://www.amazon.com/gp/product/0393089037/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393089037&linkCode=as2&tag=travofawand-20&linkId=GSAOJKSQHTI2OQTE).
+Anyways, I started reading more posts on Cooking Issues and as often happens, I became enamored with Dave Arnold, and decided to get his book, ["Liquid Intelligence"](https://www.amazon.com/gp/product/0393089037/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393089037&linkCode=as2&tag=travofawand-20&linkId=GSAOJKSQHTI2OQTE).
 
 This book is ridiculous.
 
 ![](https://cdn-images-1.medium.com/max/800/0*03Kf-3nH4V2XmkUG.)
 ![](https://cdn-images-1.medium.com/max/800/0*fMIJcnp_Hs24G316.)
 
-I loved/love [Jeffrey Morgenthaler](http://www.jeffreymorgenthaler.com/)’s "[The Bar Book](http://www.amazon.com/gp/product/145211384X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145211384X&linkCode=as2&tag=travofawand-20&linkId=52J7CAGO4OYKRJ6C)", because its the perfect way to get into craft cocktails, without being overwhelmed.
+I loved/love [Jeffrey Morgenthaler](https://www.jeffreymorgenthaler.com/)’s "[The Bar Book](https://www.amazon.com/gp/product/145211384X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145211384X&linkCode=as2&tag=travofawand-20&linkId=52J7CAGO4OYKRJ6C)", because its the perfect way to get into craft cocktails, without being overwhelmed.
 
 ![](https://cdn-images-1.medium.com/max/800/0*OBtf69JxZazhZOog.)
 ![](https://cdn-images-1.medium.com/max/800/0*DtBVYFk8AZNmX1uo.)

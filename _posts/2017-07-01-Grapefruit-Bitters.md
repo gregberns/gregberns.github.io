@@ -6,7 +6,7 @@ categories: []
 keywords: [drink]
 ---
 
-In my [revived quest](http://travelsofawanderer.blogspot.com/2014/12/on-liquid-intelligence.html) to learn more about cocktails, I ran into an article in [Imbibe Magazine](http://imbibemagazine.com/) for a [recipe for Grapefruit Bitters](http://imbibemagazine.com/Grapefruit-Bitters-Recipe). And since I have a grapefruit tree right outside my door, I figured I’d throw together the ingredients I had, and see what happens.
+In my [revived quest](https://travelsofawanderer.blogspot.com/2014/12/on-liquid-intelligence.html) to learn more about cocktails, I ran into an article in [Imbibe Magazine](https://imbibemagazine.com/) for a [recipe for Grapefruit Bitters](https://imbibemagazine.com/Grapefruit-Bitters-Recipe). And since I have a grapefruit tree right outside my door, I figured I’d throw together the ingredients I had, and see what happens.
 
 ![](https://cdn-images-1.medium.com/max/800/0*7wVrX2HW3-vlG5KH.jpg)
 
@@ -26,7 +26,7 @@ Over the last year, I’ve collected a couple different types, and I think these
 
 ![](https://cdn-images-1.medium.com/max/800/0*rkshvF6tQpY3ocdf.jpg)
 
-Anyways, I took the [recipe for Grapefruit Bitters](http://imbibemagazine.com/Grapefruit-Bitters-Recipe) and modified it to my needs. I sure as shit didn’t need 20 oz of bitters (you use them a dash at a time), I don’t have wormwood, and dandelion’s aren’t in season. So this is a result of my laziness. We’ll see how it tastes in 4 weeks.
+Anyways, I took the [recipe for Grapefruit Bitters](https://imbibemagazine.com/Grapefruit-Bitters-Recipe) and modified it to my needs. I sure as shit didn’t need 20 oz of bitters (you use them a dash at a time), I don’t have wormwood, and dandelion’s aren’t in season. So this is a result of my laziness. We’ll see how it tastes in 4 weeks.
 
 Ingredients:
 

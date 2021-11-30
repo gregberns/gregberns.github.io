@@ -86,4 +86,4 @@ After further investigation `mapWhile` is the wrong function to be looking at. A
 
 Instead what were looking for is a `reduceWhile` which is available in RambdaJS. `reduce` allows us to ‘compress’ the items in a list into a single item. In this case we want to ‘compress’ the items in a list but only until a particular condition is met.
 
-Search for ‘[reduceWhile](http://ramdajs.com/docs/#reduceWhile)’ at: [http://ramdajs.com/docs/#reduceWhile](http://ramdajs.com/docs/#reduceWhile)
+Search for ‘[reduceWhile](https://ramdajs.com/docs/#reduceWhile)’ at: [https://ramdajs.com/docs/#reduceWhile](https://ramdajs.com/docs/#reduceWhile)

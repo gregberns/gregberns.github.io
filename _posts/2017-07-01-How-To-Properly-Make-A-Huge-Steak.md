@@ -17,7 +17,7 @@ Especially when they’re 2 inch Ribeyes. (That is HUGE, if you can’t tell fro
 
 But how the hell do you make a 2-inch thick, $25 steak, without fucking it up?!?!
 
-For that, I went to David Chang’s book: [Momofuku](http://www.amazon.com/gp/product/030745195X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030745195X&linkCode=as2&tag=travofawand-20&linkId=PXBWDEUKATOLNMUI). If you’re not familiar with David Chang, check out [Mind Of A Chef](http://www.pbs.org/food/shows/the-mind-of-a-chef/) on Netflix, done by PBS, produced by Anthony Bourdain. Its an awesome show, and they actually make this massive steak in one of the episodes.
+For that, I went to David Chang’s book: [Momofuku](https://www.amazon.com/gp/product/030745195X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030745195X&linkCode=as2&tag=travofawand-20&linkId=PXBWDEUKATOLNMUI). If you’re not familiar with David Chang, check out [Mind Of A Chef](https://www.pbs.org/food/shows/the-mind-of-a-chef/) on Netflix, done by PBS, produced by Anthony Bourdain. Its an awesome show, and they actually make this massive steak in one of the episodes.
 
 ![](https://cdn-images-1.medium.com/max/800/0*J5TyLMx6h20OG5Rl.)
 ![](https://cdn-images-1.medium.com/max/800/0*qzRfA3oTxaGmN4NC.)
@@ -48,11 +48,11 @@ First things first though…
 
 ### Supplies
 
-I’m pretty sure you can’t make a mind blowing steak without a cast iron pan. You grill people… I’m really not interested in hearing it. Cast iron is the way to go. If you don’t have on, get with the 12-inch Lodge for [$25 on Amazon](http://www.amazon.com/gp/product/B00006JSUB/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006JSUB&linkCode=as2&tag=travofawand-20&linkId=KEJVZDRPWCMCASWB). (If you’re hesitating, remember you spent more than that on your last beer run and this thing will last forever…so just get the damn thing.)
+I’m pretty sure you can’t make a mind blowing steak without a cast iron pan. You grill people… I’m really not interested in hearing it. Cast iron is the way to go. If you don’t have on, get with the 12-inch Lodge for [$25 on Amazon](https://www.amazon.com/gp/product/B00006JSUB/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006JSUB&linkCode=as2&tag=travofawand-20&linkId=KEJVZDRPWCMCASWB). (If you’re hesitating, remember you spent more than that on your last beer run and this thing will last forever…so just get the damn thing.)
 
 Once you have the pan all you need is:
 
-*   [Morton’s Coarse Kosher Salt](http://www.amazon.com/gp/product/B001GHYO44/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001GHYO44&linkCode=as2&tag=travofawand-20&linkId=MTL2JSAXJ2DORIF3), usually it comes in a rather big box(…this is the good kind of salt)
+*   [Morton’s Coarse Kosher Salt](https://www.amazon.com/gp/product/B001GHYO44/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001GHYO44&linkCode=as2&tag=travofawand-20&linkId=MTL2JSAXJ2DORIF3), usually it comes in a rather big box(…this is the good kind of salt)
 *   Grapeseed oil (Grapeseed has a super high smoke point, so you can get the pan super hot. Do not use olive oil, it has one of the lowest.)
 *   A teammate with a phone/stopwatch/timer (with seconds)
 *   Tongs
@@ -140,4 +140,4 @@ Update:
 
 This article may be helpful to learn more:
 
-[http://www.seriouseats.com/2012/12/the-food-lab-complete-guide-to-pan-seared-steaks.html](http://www.seriouseats.com/2012/12/the-food-lab-complete-guide-to-pan-seared-steaks.html)
+[https://www.seriouseats.com/2012/12/the-food-lab-complete-guide-to-pan-seared-steaks.html](https://www.seriouseats.com/2012/12/the-food-lab-complete-guide-to-pan-seared-steaks.html)

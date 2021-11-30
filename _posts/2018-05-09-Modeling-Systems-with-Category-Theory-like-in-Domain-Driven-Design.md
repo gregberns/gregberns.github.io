@@ -6,7 +6,7 @@ categories: []
 keywords: [software]
 ---
 
-I’ve mentioned ‘category theory’ before and this video is a decent intro to it: [Category Theory by Tom LaGatta](https://www.youtube.com/watch?v=o6L6XeNdd_k). It might also be worth reading the intro to [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf) because its quite easy to grasp.
+I’ve mentioned ‘category theory’ before and this video is a decent intro to it: [Category Theory by Tom LaGatta](https://www.youtube.com/watch?v=o6L6XeNdd_k). It might also be worth reading the intro to [Category Theory for Scientists](https://math.mit.edu/~dspivak/CT4S.pdf) because its quite easy to grasp.
 
 Some have asked after reading [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/): "But how can I apply this?" Hopefully this explanation and parts of this video might help tie these concepts together.
 
@@ -51,13 +51,13 @@ We’ll when modeling a system, if you define the objects that are going to move
 The above is a **serious** simplification of category theory… but essentially it’s a system of objects and ‘morphisms’. Objects are the entities and values, and morphisms are just the functions or transformations described above. Think of the morphisms as a C#/Java interface that describes the signature but doesn’t worry about the implementation. Category Theory provides:
 
 > a new semantics for talking about programs, allowing people to investigate how programs combine and compose to create other programs, without caring about the specifics of implementation.  
-> - [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf) page 10
+> - [Category Theory for Scientists](https://math.mit.edu/~dspivak/CT4S.pdf) page 10
 
 With that, take a look at [Category Theory by Tom LaGatta](https://www.youtube.com/watch?v=o6L6XeNdd_k). Hopefully it will help grasp the basics and apply it to real world scenarios.
 
 A couple notes:
 
 *   Minutes 12-ish to 49 of the talk are pretty mathy, so may be a bit rough for those like me. If you get bored, skip to around 50 mins and it’ll get into modeling diagrams into categories, genealogy as categories, database schema as categories, etc
-*   In the talk he mentions [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf) and theres the link. The intro is worth reading. "data models are categories, agent actions are monoid actions, context can be modeled by monads" WHAT!! Yes.
+*   In the talk he mentions [Category Theory for Scientists](https://math.mit.edu/~dspivak/CT4S.pdf) and theres the link. The intro is worth reading. "data models are categories, agent actions are monoid actions, context can be modeled by monads" WHAT!! Yes.
 *   The arrow notation above is actually something called ‘denotational design’ or ‘denotational semantics’ and it can be really helpful when modeling systems or even simple set of functions.)
-*   I found this talk based on the [Magic Read Along podcast episode #15](http://www.magicreadalong.com/episode/15)
+*   I found this talk based on the [Magic Read Along podcast episode #15](https://www.magicreadalong.com/episode/15)

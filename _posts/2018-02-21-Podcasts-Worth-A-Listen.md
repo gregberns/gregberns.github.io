@@ -20,7 +20,7 @@ Episode Favorites: #260, 258, 225, 218, 205, 202, 201, 198, 194, 187, 168, 167, 
 
 For functional programming nerds. Its super niche and they get into some very technical FP concepts. But if you like that kind of thing, they discuss some of the current activity coming out of the FP communities and ideas they’re personally exploring.
 
-[Programming Tech Podcast](http://www.magicreadalong.com/)
+[Programming Tech Podcast](https://www.magicreadalong.com/)
 
 ### LambdaCast
 
